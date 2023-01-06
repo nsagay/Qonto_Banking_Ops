@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <DeclarationReport>
+      <Administration>
+        <From declarerType="LEI">969500OQW41JH71ZPA06</From>
+        <To>BDF</To>
+        <Domain>OBR</Domain>
+        <Response>
+          <Language>FR</Language>
+        </Response>
+      </Administration>
+      <Report date="" code="A71DSP2" close="true">
+  <Data form="A71DSP2">
+    <Item>
+      <Dim prop="SEQ"></Dim>
+      <Dim prop="CIB"></Dim>
+      <Dim prop="REFERENCE"></Dim>
+      <Dim prop="MOYEN_PAIE"></Dim>
+      <Dim prop="CANAL_INIT"></Dim>
+      <Dim prop="AUTHEN_FORTE"></Dim>
+      <Dim prop="NB_OP"></Dim>
+      <Dim prop="MT_CUMUL"></Dim>
+      <Dim prop="MOTIF"></Dim>
+      <Dim prop="COMMENTAIRE"></Dim>
+      <Dim prop="SCTID"></Dim>
+    </Item>
+  </Data>
+</Report>
+      </DeclarationReport>
+    
