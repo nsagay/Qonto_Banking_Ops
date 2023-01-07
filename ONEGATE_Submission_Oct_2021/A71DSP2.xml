@@ -24,7 +24,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">1</Dim>
+    <Dim prop="SEQ">1</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF201</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -37,7 +37,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">2</Dim>
+    <Dim prop="SEQ">2</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF479</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -50,7 +50,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">3</Dim>
+    <Dim prop="SEQ">3</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF459</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -63,7 +63,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">4</Dim>
+    <Dim prop="SEQ">4</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF105</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -76,7 +76,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">5</Dim>
+    <Dim prop="SEQ">5</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF292</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -89,7 +89,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">6</Dim>
+    <Dim prop="SEQ">6</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF189</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -102,7 +102,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">7</Dim>
+    <Dim prop="SEQ">7</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF191</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -115,7 +115,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">8</Dim>
+    <Dim prop="SEQ">8</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF200</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -128,7 +128,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">9</Dim>
+    <Dim prop="SEQ">9</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF186</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -141,7 +141,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">10</Dim>
+    <Dim prop="SEQ">10</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF357</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -154,7 +154,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">11</Dim>
+    <Dim prop="SEQ">11</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF402</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -167,7 +167,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">12</Dim>
+    <Dim prop="SEQ">12</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF129</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -180,7 +180,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">13</Dim>
+    <Dim prop="SEQ">13</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF396</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -193,7 +193,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">14</Dim>
+    <Dim prop="SEQ">14</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF185</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
@@ -206,7 +206,7 @@
     <Dim prop="SCTID">NOTIF_REFUS</Dim>
   </Item>
   <Item>
-    <Dim prop="index">15</Dim>
+    <Dim prop="SEQ">15</Dim>
     <Dim prop="CIB">16958</Dim>
     <Dim prop="REFERENCE">RFCBF265</Dim>
     <Dim prop="MOYEN_PAIE">CARTE</Dim>
